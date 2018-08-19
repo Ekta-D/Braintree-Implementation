@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BraintreeIntegration</string>
+    <string name="braintree_merchant_id">ymwy2r4ksfzbwh2n</string>
+    <string name="braintree_publickey">tjz5b5wfpcz554nr</string>
+    <string name="braintree_privatekey">1a1b66cff3e7a72207d5fd1be5b5e413</string>
+    <string name="braintree_csekey">MIIBCgKCAQEA5pA+5juRu500eLtnF4mt6l4vjNDoO3rMb+6A1GXRMqoR6WgA/uCRiCPsJvwVBaLIwjji1BpvIn11vNnSlAtFAB0i4U3DcgP0p5CsD9HlqVa/ckxEQiSqjmKCHQ+XOwxz/e8kj1tQrviLPGA/ddjk9YyvBOwY/XYbWYhEl1IEK3L6/jpHGHA9dVflqR/ht+f4QWdahVyWfdeggvuhH/epNYQe6uSnmTHLeigXgDZHvojLd8YwM05dxV8LXzb19djElmsTB85lMaXEnELO/VVgQD3j6Q28tJfHrymuszF2uUSc9ucTJ60PWIOn757LN7e88KU8mQCGGXBmCEdtXs7ZwQIDAQAB</string>
+</resources>
